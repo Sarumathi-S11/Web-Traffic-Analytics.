@@ -1,0 +1,7 @@
+traffic_source,sessions,avg_duration_seconds,single_page_sessions,conversion_rate_pct,single_page_rate_pct
+Direct,404,43.32178217821782,68,21.04,16.83
+Email,191,46.79057591623037,28,20.94,14.66
+Organic Search,576,46.796875,95,19.1,16.49
+Paid Search,151,52.19867549668874,24,21.85,15.89
+Referral,173,47.64739884393064,28,21.39,16.18
+Social,305,44.954098360655735,60,21.97,19.67

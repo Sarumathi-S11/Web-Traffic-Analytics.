@@ -1,0 +1,22 @@
+WEB TRAFFIC ANALYTICS - RUN SUMMARY
+===================================
+                            metric   value
+                 Total page events 5749.00
+                    Total sessions 1800.00
+                   Unique visitors  985.00
+    Average page views per session    3.19
+Average session duration (seconds)   46.24
+      Single-page session rate (%)   16.83
+   Event-based conversion rate (%)   20.67
+
+FUNNEL
+======
+funnel_step  sessions_reached  pct_of_all_sessions  drop_off_from_previous_pct
+          /               878                48.78                         NaN
+  /products               699                38.83                       20.39
+   /pricing               616                34.22                       11.87
+    /signup               587                32.61                        4.71
+  /checkout               306                17.00                       47.87
+ /thank-you               288                16.00                        5.88
+
+Note: The dataset is synthetic and results are illustrative only.

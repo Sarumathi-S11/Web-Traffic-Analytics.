@@ -1,0 +1,6 @@
+potential_issue,recommended_action
+High single-page session rate,"Improve landing-page relevance, page speed, and calls to action; test changes with A/B experiments."
+Large funnel drop-off before signup,Simplify navigation and signup forms; clarify product value and reduce unnecessary steps.
+Low engagement from a traffic source,Align landing-page content with the source campaign and review audience targeting.
+Long page load times,"Optimize images, scripts, caching, and mobile performance on the slowest pages."
+Device-level engagement differences,Review responsive layouts and test key journeys on devices with lower conversion or engagement.
